@@ -1,0 +1,14 @@
+Package: eatthis
+Title: A Package to Help You Select Meals for the Week
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Ashley",
+           family = "Bonner",
+           role = c("aut", "cre"),
+           email = "ashleybonner8@gmail.com")
+Description: The `eatthis` package provides a series of simple functions to randomly select meals from a database.
+License: GPL-3 + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
