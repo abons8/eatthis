@@ -4,12 +4,14 @@
 \alias{eatthis}
 \title{eatthis}
 \usage{
-eatthis(dat, cat = NULL, seed = NULL)
+eatthis(dat, cat = NULL, seed = 1)
 }
 \arguments{
 \item{dat}{a dataframe of food items and categories}
 
 \item{cat}{a category}
+
+\item{seed}{a random seed}
 }
 \value{
 Returns a randomly selected foot item
